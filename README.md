@@ -1,6 +1,6 @@
 A few years after I graduated high school, my former high school golf coach contacted me and said, "I wish I could get my golfers Strokes Gained Data. Do you know anything about that?"
 
-Strokes Gaines is an innovative golf statistic invented a few years ago by professor Mark Broadie at Columbia University. It completely changed the way golfers played and practiced.
+Strokes Gaines is an innovative golf statistic which was invented a few years ago by professor Mark Broadie at Columbia University. It completely changed the way golfers played and practiced.
 
 My coach wanted to get his players good data, but all of the apps and tools sold online costed hundreds of dollars.
 
