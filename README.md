@@ -4,6 +4,4 @@ Strokes Gaines is an innovative golf statistic which was invented a few years ag
 
 My coach wanted to get his players good data, but all of the apps and tools sold online costed hundreds of dollars.
 
-Lucky for my coach, I had already read a book written by Mark Broadie about Strokes Gained, and I knew how to calculate it.
-
 I spent a few nights putting this spreadsheet together, and his golfers have been using it after every round for the last couple of seasons to get valueable insight into their strengths and weaknesses as a golfer.
